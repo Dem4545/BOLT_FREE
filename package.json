@@ -1,0 +1,4 @@
+...
+
+    <boltAction type="shell">
+      npm install express body-parser cors passport passport-local
